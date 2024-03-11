@@ -1,0 +1,12 @@
+DATA STRUCTURES: is a way to store or organze data in such way that it can be used / accessed efficiently.
+
+LINEAR DATA STRUCTURES:
+1.The arrangement of data in a sequential manner.
+2.One element is connected to only one another element in a linear form.
+eg:Linked lists,Queus
+
+NON-LINEAR DATA STRUCTURES:
+1.The data elements are not arranged in sequential order.
+2.There exists a hierarchical relationship between the individual data items.
+eg:Trees,Graphs.
+
